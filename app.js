@@ -1,0 +1,10 @@
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
+Console.log("Good Morning");
