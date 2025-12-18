@@ -1,6 +1,0 @@
-[submodule "Testing"]
-	path = Testing
-	url = https://github.com/KirtanVaghela12/Testing.git
-[submodule "Dictionary"]
-	path = Dictionary
-	url = https://github.com/pritam56-create/Dictionary.git
